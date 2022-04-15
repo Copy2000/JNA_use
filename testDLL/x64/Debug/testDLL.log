@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  testDLL.cpp
+  正在生成代码...
+    正在创建库 C:\Users\A\source\repos\testDLL\x64\Debug\testDLL.lib 和对象 C:\Users\A\source\repos\testDLL\x64\Debug\testDLL.exp
+  testDLL.vcxproj -> C:\Users\A\source\repos\testDLL\x64\Debug\testDLL.dll
